@@ -1,5 +1,5 @@
 # Proyecto-de-Factura-JPA-con-Envers
-Refactorización del proyecto de facturación en JPA, Lombok y H2 para la cátedra de Desarrollo de Software, añadiendo las dependencias de auditoría Envers.
+Refactorización del proyecto de facturación en JPA, añadiendo las dependencias de auditoría Envers.
 
 ## Tabla de Contenidos
 
