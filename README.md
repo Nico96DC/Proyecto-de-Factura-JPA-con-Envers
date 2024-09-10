@@ -9,7 +9,7 @@ Refactorización del proyecto de facturación en JPA, Lombok y H2 para la cáted
 ## Instalación
 1. Clonar el repositorio:
    ```sh
-   git clone https://github.com/Nico96DC/Proyecto-de-Factura-JPA.git
+   git clone https://github.com/Nico96DC/Proyecto-de-Factura-JPA-con-Envers.git
 2. Ir al directorio del archivo y ejecutarlo:
    cd Proyecto-de-Factura-JPA-con-Envers
 
