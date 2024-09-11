@@ -10,6 +10,8 @@
         <class>org.example.DetalleFactura</class>
         <class>org.example.Domicilio</class>
         <class>org.example.Factura</class>
+        <class>org.example.audit.Revision</class>
+        <class>org.example.RevisionListener</class>
         <properties>
             <property name="javax.persistence.jdbc.driver" value="org.h2.Driver"/>
             <property name="javax.persistence.jdbc.url" value="jdbc:h2:tcp://localhost/~/test"/>
